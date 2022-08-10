@@ -27,7 +27,7 @@ let products = {
     { 
         productName: "CORSAIR 7000D AIRFLOW",
         category: "case",
-        price: "359.99",
+        price: "349.99",
         image: "https://i.ibb.co/8b1QvX0/CC-9011218-WW-Gallery-7000-D-AIRFLOW-BLACK-01.webp",
     },
   ],
