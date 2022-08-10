@@ -13,13 +13,6 @@ let products = {
         image: "https://www.amd.com/system/files/2020-09/616656-amd-ryzen-7-5000-series-PIB-1260x709_0.png",
     },
     {
-        productName: "DEEPCOOL MATREXX 55",
-        category: "case",
-        price: "139.99",
-        image: "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/Matrexx_55_Mesh_4F/Overview/01.png?fm=webp&q=60",
-        
-    },
-    {
         productName: "SAPLOS Radeon RX 550",
         category: "gpu",
         price: "240.00",
