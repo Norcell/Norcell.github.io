@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Norwich Tech</title>
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/WB58t7G/Untitled.png">
+  </head>
+  <body>
+      <h1 class="header">&nbsp; &nbsp; Norwich Tech</h1>
+    <div class="wrapper">
+      <div id="search-container">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search product name here.."
+        />
+        <button id="search">Search</button>
+      </div>
+      <div id="buttons">
+        <button class="button-value" onclick="filterProduct('all')">All</button>
+        <button class="button-value" onclick="filterProduct('gpu')">
+          GPU's
+        </button>
+        <button class="button-value" onclick="filterProduct('processor')">
+          Processor's
+        </button>
+        <button class="button-value" onclick="filterProduct('case')">
+          Cases
+        </button>
+        <button class="button-value" onclick="filterProduct('prebuild')">
+          Prebuild's
+        </button>
+      </div>
+      <div id="products"></div>
+    </div>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
+</html>
