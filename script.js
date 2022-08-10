@@ -7,6 +7,12 @@ let products = {
       image: "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-shop-600-p@2x.png",
     },
     {
+      productName: "PowerColor AMD Radeon RX 6900",
+      category: "gpu",
+      price: "689.99",
+      image: "https://www.powercolor.com/_upload/images//2012071505480.png",
+    },
+    {
         productName: "AMD RYZEN 7 5700X",
         category: "processor",
         price: "399.99",
