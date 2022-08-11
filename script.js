@@ -36,6 +36,12 @@ let products = {
         price: "349.99",
         image: "https://i.ibb.co/8b1QvX0/CC-9011218-WW-Gallery-7000-D-AIRFLOW-BLACK-01.webp",
     },
+    {
+      productName: "Intel Core i9-12900K",
+      category: "processor",
+      price: "699.99",
+      image: "https://i.ibb.co/tY2MH85/intel-web-1080-1080.png",
+    },
   ],
 };
 
