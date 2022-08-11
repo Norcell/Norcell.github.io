@@ -42,6 +42,12 @@ let products = {
       price: "699.99",
       image: "https://i.ibb.co/tY2MH85/intel-web-1080-1080.png",
     },
+    {
+      productName: "NZXT H510",
+      category: "case",
+      price: "99.99",
+      image: "https://cdn.salla.sa/7EjReV0pilQZcx4Lj2nJNshpPSSh1XdfN5AlN5kC.png",
+    },
   ],
 };
 
